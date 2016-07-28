@@ -3,6 +3,8 @@ Arduino compatible embedded microSD data logger
 
 ![](https://lh3.googleusercontent.com/-KQVBXKrtjkA/VuaPrgKhz3I/AAAAAAAAF9s/6_--DkJewKM7PQYk1q839r6s-D2WMRWEACCo/s512-Ic42/DSC02494%2B%25282%2529%2B%2528Custom%2529.JPG)
 
+![](https://lh3.googleusercontent.com/-oS44-VbZlPI/V5l3_p9Wm2I/AAAAAAAAGI8/qWykpii9yV4tGcVChfL06fOX9lLOutCEgCCo/s800/nlog_F_B.jpg)
+
 ----------
 
 ## Features ##
