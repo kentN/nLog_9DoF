@@ -31,7 +31,7 @@ Arduino compatible embedded microSD data logger
 
 ----------
 
-##Project Environment##
+## Project Environment ##
 
 - KiCad (4.0.1)
 - Arduino 1.0.6
